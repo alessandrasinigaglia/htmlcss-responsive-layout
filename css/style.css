@@ -1,0 +1,122 @@
+/*---------
+    RESET
+-----------*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1600px;
+    margin: auto;
+    padding: 15px 0;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
+/*---------
+    HEADER
+-----------*/
+
+.title {
+    font-family: "Nerko One", cursive;
+    color: #ff9614;
+    text-align: center;
+    font-weight: bold;
+}
+
+p {
+    font-size: 14px;
+}
+
+.introduction {
+    padding: 15px;
+}
+
+h2 {
+    color: #4e3969;
+    font-family: "Montserrat", sans-serif;
+}
+
+.yt-img {
+    width: 450px;
+    height: auto;
+}
+
+h3 {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+ul {
+    list-style: none;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 75px;
+    gap: 90px;
+}
+
+.fa-facebook {
+    color: #1a77f3;
+}
+
+.fa-twitter {
+    color: #009eff;
+}
+
+.fa-instagram {
+    color: #de3d78;
+}
+
+.fa-pinterest, .fa-youtube {
+    color: #e62222;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* MOBILE DA 0 A 480 */
+@media screen and (max-width: 480px) {
+
+}
