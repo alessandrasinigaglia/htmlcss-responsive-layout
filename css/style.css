@@ -78,6 +78,29 @@ ul {
     color: #e62222;
 }
 
+/*---------
+    SECTION
+-----------*/
+
+.presentation {
+    padding: 15px;
+}
+
+.line {
+    border: 1px solid #ff9614;
+    width: 65px;
+}
+
+.img-sec {
+    width: 320px;
+    height: auto;
+    margin-top: 40px;
+    margin-left: auto;
+}
+
+/*---------
+    FOOTER
+-----------*/
 
 
 
